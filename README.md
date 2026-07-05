@@ -23,7 +23,7 @@ Ter o **Python 3.8 ou superior** instalado.
 ### Passo 1: Clonar o Repositório
 Abra o seu terminal ou prompt de comando e clone o projeto:
 ```bash
-git clone [https://github.com/SEU-USUARIO/cable.git](https://github.com/SEU-USUARIO/cable.git)
+git clone [https://github.com/barretoclara/cable.git]
 cd cable
 ```
 
